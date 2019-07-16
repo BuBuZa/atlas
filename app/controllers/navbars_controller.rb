@@ -1,5 +1,5 @@
 class NavbarsController < ApplicationController
-  def works
+  def projects
   end
 
   def about
