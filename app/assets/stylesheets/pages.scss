@@ -5,18 +5,21 @@
     margin: 0;
     padding: 0;
 }
-
+body{
+    font-family: 'DM Sans', sans-serif;
+}
 .bgClass {
-    background: image-url('bg_colors.jpeg');
+    background-color: #FFEFD5;
     text-align: center;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'DM Sans', sans-serif;
 
     font-weight: bold;
-    color: white;
+    color: blueviolet;
  }
 .py-2 {
-    font-family: 'area';
-    color: white;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: bold;
+    color: #a5c1e0;
 }
 .logo {
     background-color: #8B4513;
